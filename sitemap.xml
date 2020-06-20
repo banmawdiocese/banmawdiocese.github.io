@@ -30,12 +30,15 @@
 		<loc>http://www.banmawdiocese.com/parish.html</loc>
 	</url>
 	<url>
-		<loc>http://www.banmawdiocese.com/office-chancery.html</loc>
-	</url>
-	<url>
 		<loc>http://www.banmawdiocese.com/bsp-letrs.html</loc>
 	</url>
 	<url>
 		<loc>http://www.banmawdiocese.com/index.html</loc>
+	</url>
+	<url>
+		<loc>http://www.banmawdiocese.com/dio-curia.html</loc>
+	</url>
+	<url>
+		<loc>http://www.banmawdiocese.com/councils.html</loc>
 	</url>
 </urlset>
