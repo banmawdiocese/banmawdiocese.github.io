@@ -12,9 +12,6 @@
 		<loc>http://www.banmawdiocese.com/contactus.html</loc>
 	</url>
 	<url>
-		<loc>http://www.banmawdiocese.com/offices.html</loc>
-	</url>
-	<url>
 		<loc>http://www.banmawdiocese.com/parish-banmaw.html</loc>
 	</url>
 	<url>
@@ -40,5 +37,8 @@
 	</url>
 	<url>
 		<loc>http://www.banmawdiocese.com/councils.html</loc>
+	</url>
+	<url>
+		<loc>http://www.banmawdiocese.com/commissions.html</loc>
 	</url>
 </urlset>
