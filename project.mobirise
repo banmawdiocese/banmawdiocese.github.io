@@ -106,7 +106,7 @@
       "settings": {
         "title": "Diocese & Bishop",
         "meta_descr": "About Banmaw diocese & Bishop",
-        "header_custom": "<meta>About the Diocese of Banmaw\n<meta>Bishop Raymond Sumlut Gam\n<meta>Background history of Banmaw Diocese\n<meta>Coat of Arms of Bishop Raymond Sumlut Gam\n<meta>Creation of Banmaw Diocese",
+        "header_custom": "<meta>About the Diocese of Banmaw and Bishop Raymond",
         "footer_custom": "",
         "html_before": "",
         "order": 1
@@ -5828,7 +5828,8 @@
       "settings": {
         "meta_descr": "Mansi Parish",
         "title": "Info-Mansi Parish",
-        "order": 7
+        "order": 7,
+        "header_custom": ""
       },
       "components": [
         {
@@ -8992,7 +8993,7 @@
         "main": true,
         "title": "Welcome Home",
         "meta_descr": "Banmaw Diocese",
-        "header_custom": "<meta>Welcome to the Diocese of Banmaw\n<meta>Bishop Raymond Sumlut Gam\n<meta>News from the Diocese of Banmaw\n<meta>Education\n<meta>Youth",
+        "header_custom": "<meta>Welcome to the Diocese of Banmaw",
         "footer_custom": "",
         "html_before": ""
       },
@@ -10579,7 +10580,7 @@
       "settings": {
         "title": "Diocesan Curia",
         "meta_descr": "Diocesan Curia",
-        "header_custom": "<meta>Diocesan Curia of Banmaw Diocese\n<meta>Vicar General of Banmaw Diocese\n<meta>Moderator of Banmaw Diocese\n<meta>Chancellor of the Dicoese of Banmaw\n<meta>Chancery and Finance Office",
+        "header_custom": "<meta>Diocesan Curia of Banmaw Diocese\n<meta>Vicar General of Banmaw Diocese",
         "footer_custom": "",
         "html_before": "",
         "order": 3
@@ -11902,7 +11903,7 @@
       "settings": {
         "title": "Councils",
         "meta_descr": "Consultation bodies of Banamw Diocese",
-        "header_custom": "<meta>Diocesan Councils of Banmaw Diocese\n<meta>Presbyteral Council of Banmaw Diocese\n<meta>Pastoral Council of Banmaw Diocese\n<meta>College of Consultors\n<meta>Finance Council of Banmaw Diocese",
+        "header_custom": "<meta>Diocesan Councils of Banmaw Diocese",
         "footer_custom": "",
         "html_before": "",
         "order": 2
