@@ -83,7 +83,7 @@
     "favicon": false,
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": false,
     "siteUrl": "https://manmawsaradawginwang.com",
     "cookiesAlert": false,
     "screenshot": "screenshot.png",

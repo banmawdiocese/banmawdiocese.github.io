@@ -1,17 +1,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
+<url>
+		<loc>https://manmawsaradawginwang.com/index.html</loc>
+	</url>	
+<url>
 		<loc>https://manmawsaradawginwang.com/diocese.html</loc>
 	</url>
 	<url>
-		<loc>https://manmawsaradawginwang.com/institutes.html</loc>
+		<loc>https://manmawsaradawginwang.com/bsp-letrs.html</loc>
+	</url>
+<url>
+		<loc>https://manmawsaradawginwang.com/councils.html</loc>
 	</url>
 	<url>
-		<loc>https://manmawsaradawginwang.com/news&events.html</loc>
+		<loc>https://manmawsaradawginwang.com/dio-curia.html</loc>
+	</url>
+<url>
+		<loc>https://manmawsaradawginwang.com/priests.html</loc>
 	</url>
 	<url>
-		<loc>https://manmawsaradawginwang.com/contactus.html</loc>
+		<loc>https://manmawsaradawginwang.com/commissions.html</loc>
+	</url>
+<url>
+		<loc>https://manmawsaradawginwang.com/comm-education.html</loc>
 	</url>
 	<url>
+		<loc>https://manmawsaradawginwang.com/comm-youth.html</loc>
+	</url>
+<url>
+		<loc>https://manmawsaradawginwang.com/parish.html</loc>
+	</url>
+<url>
 		<loc>https://manmawsaradawginwang.com/parish-banmaw.html</loc>
 	</url>
 	<url>
@@ -21,31 +39,7 @@
 		<loc>https://manmawsaradawginwang.com/parish-mansi.html</loc>
 	</url>
 	<url>
-		<loc>https://manmawsaradawginwang.com/parish.html</loc>
-	</url>
-	<url>
-		<loc>https://manmawsaradawginwang.com/bsp-letrs.html</loc>
-	</url>
-	<url>
-		<loc>https://manmawsaradawginwang.com/index.html</loc>
-	</url>
-	<url>
-		<loc>https://manmawsaradawginwang.com/dio-curia.html</loc>
-	</url>
-	<url>
-		<loc>https://manmawsaradawginwang.com/councils.html</loc>
-	</url>
-	<url>
-		<loc>https://manmawsaradawginwang.com/commissions.html</loc>
-	</url>
-	<url>
 		<loc>https://manmawsaradawginwang.com/parish-nanhlaing.html</loc>
-	</url>
-	<url>
-		<loc>https://manmawsaradawginwang.com/page15.html</loc>
-	</url>
-	<url>
-		<loc>https://manmawsaradawginwang.com/priests.html</loc>
 	</url>
 	<url>
 		<loc>https://manmawsaradawginwang.com/parish-shwegu.html</loc>
@@ -74,10 +68,16 @@
 	<url>
 		<loc>https://manmawsaradawginwang.com/parish-zaubung.html</loc>
 	</url>
-	<url>
-		<loc>https://manmawsaradawginwang.com/comm-education.html</loc>
+<url>
+		<loc>https://manmawsaradawginwang.com/institutes.html</loc>
 	</url>
 	<url>
-		<loc>https://manmawsaradawginwang.com/comm-youth.html</loc>
+		<loc>https://manmawsaradawginwang.com/news&events.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/contactus.html</loc>
+	</url>
+<url>
+		<loc>https://manmawsaradawginwang.com/page15.html</loc>
 	</url>
 </urlset>
