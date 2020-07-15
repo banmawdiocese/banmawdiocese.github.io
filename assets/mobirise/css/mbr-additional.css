@@ -860,45 +860,46 @@ section.lazy-placeholder:after {
   text-align: center;
   color: #0f7699;
 }
-.cid-s1ZXK1DotY {
-  padding-top: 45px;
-  padding-bottom: 60px;
-  background-color: #f2f2f2;
+.cid-s4Mxc2DsdV {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/diologo-bk-2-900x600.png");
 }
-.cid-s1ZXK1DotY .card-box {
-  background-color: #efefef;
+.cid-s4Mxc2DsdV .mbr-section-title {
+  margin: 0;
+}
+.cid-s4Mxc2DsdV .mbr-section-subtitle {
+  margin-bottom: 2rem;
+  color: #8d97ad;
+}
+.cid-s4Mxc2DsdV .mbr-text {
+  margin: 0;
+  color: #efefef;
+}
+.cid-s4Mxc2DsdV .wrapper {
   padding: 2rem;
+  box-shadow: 0px 0px 30px rgba(115, 128, 157, 0.1);
+  border-radius: .25rem;
 }
-.cid-s1ZXK1DotY h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
+.cid-s4Mxc2DsdV .card1 {
+  background: linear-gradient(45deg, #ffda00, #1dc9cb);
 }
-.cid-s1ZXK1DotY p {
-  color: #767676;
-  text-align: left;
+.cid-s4Mxc2DsdV .card2 {
+  background: linear-gradient(45deg, #0f7699, #b2ccd2);
 }
-.cid-s1ZXK1DotY .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
+.cid-s4Mxc2DsdV .card3 {
+  background: linear-gradient(45deg, #ea0707, #fde867);
 }
-.cid-s1ZXK1DotY .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
+.cid-s4Mxc2DsdV .card4 {
+  background: linear-gradient(45deg, #1dc9cb, #1dc9cb);
 }
-.cid-s1ZXK1DotY .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
+@media (max-width: 991px) {
+  .cid-s4Mxc2DsdV .wrapper {
+    margin-bottom: 5rem;
+  }
 }
-.cid-s1ZXK1DotY .card-title {
-  color: #2e960e;
-}
-.cid-s1ZXK1DotY P {
-  color: #0f7699;
+.cid-s4Mxc2DsdV .mbr-card-title {
+  padding-bottom: 1rem;
 }
 .cid-s24ttQd0kU {
   padding-top: 105px;
