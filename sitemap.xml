@@ -1,35 +1,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-		<loc>https://manmawsaradawginwang.com/index.html</loc>
-	</url>	
-<url>
+	<url>
 		<loc>https://manmawsaradawginwang.com/diocese.html</loc>
 	</url>
 	<url>
-		<loc>https://manmawsaradawginwang.com/bsp-letrs.html</loc>
-	</url>
-<url>
-		<loc>https://manmawsaradawginwang.com/councils.html</loc>
+		<loc>https://manmawsaradawginwang.com/institutes.html</loc>
 	</url>
 	<url>
-		<loc>https://manmawsaradawginwang.com/dio-curia.html</loc>
-	</url>
-<url>
-		<loc>https://manmawsaradawginwang.com/priests.html</loc>
-	</url>
-	<url>
-		<loc>https://manmawsaradawginwang.com/commissions.html</loc>
-	</url>
-<url>
-		<loc>https://manmawsaradawginwang.com/comm-education.html</loc>
-	</url>
-	<url>
-		<loc>https://manmawsaradawginwang.com/comm-youth.html</loc>
-	</url>
-<url>
-		<loc>https://manmawsaradawginwang.com/parish.html</loc>
-	</url>
-<url>
 		<loc>https://manmawsaradawginwang.com/parish-banmaw.html</loc>
 	</url>
 	<url>
@@ -39,7 +15,25 @@
 		<loc>https://manmawsaradawginwang.com/parish-mansi.html</loc>
 	</url>
 	<url>
+		<loc>https://manmawsaradawginwang.com/parish.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/bsp-letrs.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/index.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/councils.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/commissions.html</loc>
+	</url>
+	<url>
 		<loc>https://manmawsaradawginwang.com/parish-nanhlaing.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/priests.html</loc>
 	</url>
 	<url>
 		<loc>https://manmawsaradawginwang.com/parish-shwegu.html</loc>
@@ -68,16 +62,43 @@
 	<url>
 		<loc>https://manmawsaradawginwang.com/parish-zaubung.html</loc>
 	</url>
-<url>
-		<loc>https://manmawsaradawginwang.com/institutes.html</loc>
+	<url>
+		<loc>https://manmawsaradawginwang.com/comm-education.html</loc>
 	</url>
 	<url>
-		<loc>https://manmawsaradawginwang.com/news&events.html</loc>
+		<loc>https://manmawsaradawginwang.com/comm-youth.html</loc>
 	</url>
 	<url>
-		<loc>https://manmawsaradawginwang.com/contactus.html</loc>
+		<loc>https://manmawsaradawginwang.com/curia.html</loc>
 	</url>
-<url>
-		<loc>https://manmawsaradawginwang.com/page15.html</loc>
+	<url>
+		<loc>https://manmawsaradawginwang.com/FMMsisters.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/SFXsisters.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/ISRsisters.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/littlewaysisters.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/jesuit.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/timeline.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/sundayreading.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/SFXbrothers.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/news.html</loc>
+	</url>
+	<url>
+		<loc>https://manmawsaradawginwang.com/underconstruction.html</loc>
 	</url>
 </urlset>
