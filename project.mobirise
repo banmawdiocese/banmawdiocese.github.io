@@ -77,7 +77,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 1024,
+    "uniqCompNum": 1026,
     "versionPublish": "4.12.3",
     "imageResize": true,
     "favicon": false,
@@ -108,7 +108,7 @@
         "meta_descr": "His Holiness, Pope Benedict XVI, created the Diocese of Banmaw on August 28, 2006, and Bishop Raymond Sumlut was ordained as the first Bishop of Banmaw on November 18, 2006.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "Banmaw Diocese & Bishop",
+        "html_before": "About Banmaw Diocese",
         "order": 1
       },
       "components": [
@@ -2227,10 +2227,11 @@
     },
     "parish-banmaw.html": {
       "settings": {
-        "meta_descr": "Banmaw Parish",
+        "meta_descr": "Banmaw Parish locates in Banmaw (Bhamo) town itself. It is the cathedral parish and has the historical Cathedral built by Columban Missionaries in 1961.",
         "title": "Banmaw Parish",
         "order": 7,
-        "header_custom": ""
+        "header_custom": "",
+        "html_before": "Banmaw Parish in the Diocese of Banmaw"
       },
       "components": [
         {
@@ -4528,10 +4529,11 @@
     },
     "parish-mansi.html": {
       "settings": {
-        "meta_descr": "Mansi Parish",
+        "meta_descr": "After the creation of the Diocese of Banmaw, Bishop Raymond Sumlut Gam establish Mansi as a quasi-parish. Later it was canonicaly promoted to full parish. At present, it is under the administration of Rev. Fr. Luke Hka Li.",
         "title": "Mansi Parish",
         "order": 8,
-        "header_custom": ""
+        "header_custom": "",
+        "html_before": "Mansi Parish in Banmaw Diocese"
       },
       "components": [
         {
@@ -5680,7 +5682,7 @@
     },
     "parish.html": {
       "settings": {
-        "meta_descr": "Parishes of Banmaw Diocese ",
+        "meta_descr": "Banmaw Diocese consists 13 parishes namely Banmaw, Momauk, Mansi, Shwegu, Nanhlaing, Namlimpa, Mainghkat, Sinlum, Prang Hkudung, Panghkak, Ting Sing, Laiza and Zau Bung.",
         "title": "Parishes in Banmaw Diocese",
         "order": 6,
         "header_custom": "",
@@ -7799,7 +7801,7 @@
         "main": true,
         "title": "Diocese of Banmaw | Myanmar",
         "meta_descr": "Banmaw Diocese is one of the Catholic Dioceses in Myanmar. It is in Kachin State, the northern part of Myanmar, and has a Catholic population of 34,151. Msgr. Raymond Sumlut Gam is the Diocesan Bishop of Banmaw Diocese.",
-        "header_custom": "<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"description\" content=\"Home Page, Diocese of Banmaw\">\n  <meta name=\"author\" content=\"Francis Han\">\n</head>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": "Diocese of Banmaw",
         "meta_image": "@PROJECT_PATH@/assets/images/diologo-withshade-122x141.png"
@@ -9585,7 +9587,7 @@
         "meta_descr": "Consultation Bodies of Banamw Diocese help the Bishop in the governance of the Diocese by giving consultation in accordance with the norms and statutes.",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": "Consultation Bodies",
+        "html_before": "Diocesan Consultation Bodies",
         "order": 2
       },
       "components": [
@@ -13802,11 +13804,11 @@
     },
     "priests.html": {
       "settings": {
-        "meta_descr": "Priests in the Diocese of Banmaw",
-        "title": "Priests",
+        "meta_descr": "In the Diocese of Banmaw, there are 28 priests working in different ministries and offices, and helping the Bishop in his triple roles.",
+        "title": "Priests in the Diocese of Banmaw",
         "order": 4,
         "header_custom": "",
-        "html_before": "Priests living and working in the Diocese of Banmaw"
+        "html_before": "Priests  in the Diocese of Banmaw"
       },
       "components": [
         {
@@ -27390,7 +27392,7 @@
     "curia.html": {
       "settings": {
         "title": "Diocesan Curia",
-        "meta_descr": "Diocesan Curia of Banmaw Diocese",
+        "meta_descr": "Diocesan Curia of Banmaw Diocese is the general secretariat of the Curia which includes different offices, departments, commissions, and officials. It is the administrative office of the Bishop by which he governs the diocese and directs pastoral actions.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "Diocesan Curia of Banmaw Diocese",
@@ -34527,7 +34529,7 @@
     "timeline.html": {
       "settings": {
         "title": "Timeline of Banmaw Diocese",
-        "meta_descr": "History Timeline of Banmaw Diocese",
+        "meta_descr": "Timeline of Banmaw Diocese shows chronologically the historical events of the Diocese of Banmaw and, at the same time, keeps the records for diocesan archive.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
