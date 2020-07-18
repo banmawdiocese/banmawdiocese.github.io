@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Catholic Diocese of Banmaw | Myanmar",
-    "currentPage": "index.html",
+    "currentPage": "littlewaysisters.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -87,7 +87,7 @@
     "siteUrl": false,
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-169215085-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-169215085-1');\n</script>",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nhttps://manmawsaradawginwang.com/blob/master/sitemap.xml\n",
     "gdpr": false,
     "PWA": {
       "enabled": true,
@@ -35671,7 +35671,7 @@
       "settings": {
         "title": "Little Way Sisters",
         "meta_descr": "The Little Way Sisters of St. Therese started their mission in the Diocese of Banmaw on June 23, 2012. At present, there are two Communities with (8) Little Way Sisters working in different parishes.",
-        "header_custom": "<link rel=\"canonical\" href=\"manmawsaradawginwang.com\">",
+        "header_custom": "<link rel=\"canonical\" href=\"manmawsaradawginwang.com/littlewaysisters.html\">",
         "footer_custom": "",
         "html_before": "",
         "order": 29
