@@ -9228,7 +9228,7 @@
         "meta_descr": "Pastoral actions of the Bishop of Banmaw Diocese is carried out by a number of Commissions, Offices and Services mandated by the Local Ordinary for particular aspects of the mission and ministries of the local church.",
         "title": "Commissions",
         "order": 20,
-        "html_before": "Commissions in the Diocese of Banmaw",
+        "html_before": "",
         "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">"
       },
       "components": [
@@ -17684,7 +17684,7 @@
         "title": "Laiza Parish",
         "order": 18,
         "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
-        "html_before": "Laiza Parish"
+        "html_before": ""
       },
       "components": [
         {
@@ -18837,7 +18837,7 @@
         "title": "Prang Hkudung Parish",
         "order": 16,
         "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
-        "html_before": "Prang Hkudung Parish"
+        "html_before": ""
       },
       "components": [
         {
@@ -19990,7 +19990,7 @@
         "title": "Panghkak Parish",
         "order": 15,
         "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
-        "html_before": "Panghkak Parish"
+        "html_before": ""
       },
       "components": [
         {
@@ -21143,7 +21143,7 @@
         "title": "Ting Sing Parish",
         "order": 17,
         "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
-        "html_before": "Ting Sing Parish"
+        "html_before": ""
       },
       "components": [
         {
@@ -22296,7 +22296,7 @@
         "title": "Zau Bung Parish",
         "order": 19,
         "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
-        "html_before": "Zau Bung Parish"
+        "html_before": ""
       },
       "components": [
         {
@@ -23449,7 +23449,7 @@
         "meta_descr": "In the Diocese of Banmaw, the educational development activities were formerly oparated under the umbrella of KMSS (Caritas) Banmaw. In 2017, the Diocesan Commission for Education was created to properly focus, observe and direct all the activities relating to education in the Diocese.",
         "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "footer_custom": "",
-        "html_before": "Education Commission",
+        "html_before": "",
         "order": 21
       },
       "components": [
@@ -25017,7 +25017,7 @@
         "meta_descr": "Diocesan Commission for Youth was created and mandated for the holistic growth of the Catholic youth in the Diocese, and to promote and encourage them in their understanding of Christian faith, vocation, and their personal commitment to the Church.",
         "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "footer_custom": "",
-        "html_before": "Youth Commission",
+        "html_before": "",
         "order": 22
       },
       "components": [
@@ -27266,7 +27266,7 @@
         "meta_descr": "For the purpose of reaching out to the geographical periphery of the country and for the sake of the deeper knowledge of the mission, the Society of Jesus had agreement with the Diocese of Banmaw and received to administer Nanhlaing parish on the 29th September 2017.",
         "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "footer_custom": "",
-        "html_before": "Jesuit Community in Banmaw Diocese",
+        "html_before": "",
         "order": 24
       },
       "components": [
@@ -29582,7 +29582,7 @@
         "meta_descr": "The Brothers of St. Francis Xavier started their mission in Banmaw region beginning at Mansi parish in May 1983. At present, they have four communities in the Dicoese working and helping priests in Banmaw, Mansi, Momauk parishes and Vocational Training School.",
         "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "footer_custom": "",
-        "html_before": "Brothers of St. Francis Xavier",
+        "html_before": "",
         "order": 25
       },
       "components": [
@@ -30419,7 +30419,7 @@
         "meta_descr": "The Sisters of Franciscan Missionary of Mary started their mission at Prang Hkudung with their first arrival in 1923. At present, there are five Communities with 35 FMM Sisters living and working in different parishes and offices.",
         "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "footer_custom": "",
-        "html_before": "Sisters of Franciscan Missionary of Mary",
+        "html_before": "",
         "order": 26
       },
       "components": [
@@ -31957,7 +31957,7 @@
         "meta_descr": "The Sisters of Reparation started their mission in the region of Banmaw on May 31, 1991. At present, there are four Communities with (9) SFX Sisters working in different parishes and offices.",
         "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "footer_custom": "",
-        "html_before": "Reparation Sisters",
+        "html_before": "",
         "order": 27
       },
       "components": [
@@ -35673,7 +35673,7 @@
         "meta_descr": "The Little Way Sisters of St. Therese started their mission in the Diocese of Banmaw on June 23, 2012. At present, there are two Communities with (8) Little Way Sisters working in different parishes.",
         "header_custom": "<link rel=\"canonical\" href=\"manmawsaradawginwang.com\">",
         "footer_custom": "",
-        "html_before": "Little Way Sisters of St. Therese",
+        "html_before": "",
         "order": 29
       },
       "components": [
@@ -36663,7 +36663,7 @@
         "meta_descr": "The Sisters of St. Francis Xavier started their mission in the Diocese of Banmaw in 1984. At present, there are four Communities with (15) SFX Sisters working in different parishes and offices.",
         "header_custom": "<link rel=\"canonical\" href=\"manmawsaradawginwang.com\">",
         "footer_custom": "",
-        "html_before": "Sisters of St. Francis Xavier",
+        "html_before": "",
         "order": 28
       },
       "components": [
