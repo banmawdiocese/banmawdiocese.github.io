@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Catholic Diocese of Banmaw | Myanmar",
-    "currentPage": "littlewaysisters.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -87,7 +87,7 @@
     "siteUrl": false,
     "screenshot": "screenshot.png",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-169215085-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-169215085-1');\n</script>",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nhttps://manmawsaradawginwang.com/blob/master/sitemap.xml\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nSitemap: https://manmawsaradawginwang.com/blob/master/sitemap.xml\n\n",
     "gdpr": false,
     "PWA": {
       "enabled": true,
@@ -1538,7 +1538,7 @@
         "meta_descr": "Banmaw Parish locates in Banmaw (Bhamo) town itself. It is the cathedral parish and has the historical Cathedral built by Columban Missionaries in 1961.",
         "title": "Banmaw Parish",
         "order": 7,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -2691,7 +2691,7 @@
         "meta_descr": "Momauk Parish locates (10) miles away from Banmaw (Bhamo) town, and it is one of four administrative townships in Kachin State. About 724 catholic families with 3,829 parishioners are living and sharing catholic faith in Momauk Parish.",
         "title": "Momauk Parish",
         "order": 9,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -3842,7 +3842,7 @@
         "meta_descr": "After the creation of the Diocese of Banmaw, Bishop Raymond Sumlut Gam establish Mansi as a quasi-parish. Later it was canonicaly promoted to full parish. At present, it is under the administration of Rev. Fr. Luke Hka Li.",
         "title": "Mansi Parish",
         "order": 8,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -4995,7 +4995,7 @@
         "meta_descr": "Banmaw Diocese consists 13 parishes namely Banmaw, Momauk, Mansi, Shwegu, Nanhlaing, Namlimpa, Mainghkat, Sinlum, Prang Hkudung, Panghkak, Ting Sing, Laiza and Zau Bung.",
         "title": "Parishes in Banmaw Diocese",
         "order": 6,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -11228,7 +11228,7 @@
         "meta_descr": "Nanhlaing Parish is (10) miles in the North of Banmaw where the center of Banmaw Diocese. The name 'Nanhlaing' means 'Red Water' in Shan language. The mission started by the MEP Missionaries in 1901 and succeeded by the Columban Missionaries in 1936. At present, the parish is under the care of Jesuit priests.",
         "title": "Nanhlaing Parish",
         "order": 10,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -13073,7 +13073,7 @@
         "meta_descr": "After the Creation of Banmaw Diocese, Shwegu became a quasi-parish in 2007 and Rev. Fr. Francis Saw Phay Han was appointed as the parish priest. Later it was promoted to full parish and at present, the parish is under the administrative care of Rev. Fr. Paschal Hpaudau Tu Ja.",
         "title": "Shwegu Parish",
         "order": 11,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -14226,7 +14226,7 @@
         "meta_descr": "Nam Lim Pa Parish is located in the Southeastern part of Banmaw Diocese. Originally the mission was started at Nam Hpa Lam village. Early MEP missionaries who visited the place were Fr. Paquet from Sin Lum in 1930, Fr. Colland (in 1933) and Fr. Cassan (in 1934) from Ting Sing bum. In 1939, MEP missionaries handed over the mission work to Columban Missionaries.",
         "title": "Namlimpa Parish",
         "order": 12,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -15379,7 +15379,7 @@
         "meta_descr": "After the Creation of Banmaw Diocese in 2006, Rev. Fr. John Lahpai Zau Yaw, then as the assistant priest of Nanhlaing, started to take the pastoral care of the faithful of Mainghkat more closely and later in 2007, was assigned as its Parish Priest. At present, Mainghkat parish is under the administration of Rev. Fr. Michael Lazum Lung Wa who was assigned as the parish priest in 2017.",
         "title": "Mainghkat Parish",
         "order": 13,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -16532,7 +16532,7 @@
         "meta_descr": "Sinlum parish is (26) miles away from Banmaw, the Diocesan center. Located to the East of Banmaw and 6,000 feet above sea level, Sinlum is in cold climate, and one of the beautiful and historical places in Kachin State in terms of its location and particularities, political and educational significance in the past and missionary work for the Diocese.",
         "title": "Sinlum Parish",
         "order": 14,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -17683,7 +17683,7 @@
         "meta_descr": "Laiza parish locates far north-eastern part of Banmaw and at the adge of the boundary of the Diocese. It is geographically and politically important place in the region. The town became the center administrative town of Kachin Independence Organization (KIO) in 1994, and is right at the borderline of Myanmaw and China.",
         "title": "Laiza Parish",
         "order": 18,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -18836,7 +18836,7 @@
         "meta_descr": "Prang Hkudung Parish is the historical place of the Diocese of Banmaw and the earliest mission of MEP among Kachin tribe. Gauri Krung was the region where the MEP Missionaries started their work for Kachin people.",
         "title": "Prang Hkudung Parish",
         "order": 16,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -19989,7 +19989,7 @@
         "meta_descr": "About (48) miles away to the East of Banmaw, Panghkak Parish is now located at Loije town which is at the borderline between Myanmar and China. Formerly, parish center was based at Panghkak village about 5 miles away from Loije.",
         "title": "Panghkak Parish",
         "order": 15,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -21142,7 +21142,7 @@
         "meta_descr": "The earliest priest who came to the area around Ting Sing and started the mission was MEP missionary, Rev. Fr. Herr, in 1929. It was written that he came from Shwe Bo that was part of Mandalay Diocese located in middle Myanmar. ",
         "title": "Ting Sing Parish",
         "order": 17,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -22295,7 +22295,7 @@
         "meta_descr": "Zau Bung parish was first located in Zau Bung village and consisted of (39) remote mountain villages. Originally, the center of the Parish was at that village and Columban Missionary Priest, Rev. Fr. Divene was the first to settle at the village and started mission work for the people.",
         "title": "Zau Bung Parish",
         "order": 19,
-        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com/parish.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "html_before": ""
       },
       "components": [
@@ -32942,7 +32942,7 @@
       "settings": {
         "title": "News+Events",
         "meta_descr": "News from the Diocese of Banmaw are pastoral or social activities and events of both the diocese and parishes.",
-        "header_custom": "<link rel=\"canonical\" href=\"manmawsaradawginwang.com\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "footer_custom": "",
         "html_before": "",
         "order": 30
@@ -34219,7 +34219,7 @@
       "settings": {
         "title": "Sunday Readings",
         "meta_descr": "Sunday Readings of the Catholic Church are different prescribed lectionaries which are to be read on Sunday for all faithful.",
-        "header_custom": "<link rel=\"canonical\" href=\"manmawsaradawginwang.com\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "footer_custom": "",
         "html_before": "",
         "order": 32
@@ -34910,7 +34910,7 @@
       "settings": {
         "title": "Bsp's Letters",
         "meta_descr": "Bishop's Messages give encouragement and inspiration to the faithful while his Pastoral Letters and statements give important information to all faithful in the diocese and declares church stand on certain matters.",
-        "header_custom": "<link rel=\"canonical\" href=\"manmawsaradawginwang.com\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "footer_custom": "",
         "html_before": "",
         "order": 31
@@ -35671,7 +35671,7 @@
       "settings": {
         "title": "Little Way Sisters",
         "meta_descr": "The Little Way Sisters of St. Therese started their mission in the Diocese of Banmaw on June 23, 2012. At present, there are two Communities with (8) Little Way Sisters working in different parishes.",
-        "header_custom": "<link rel=\"canonical\" href=\"manmawsaradawginwang.com/littlewaysisters.html\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "footer_custom": "",
         "html_before": "",
         "order": 29
@@ -36661,7 +36661,7 @@
       "settings": {
         "title": "SFX Communities",
         "meta_descr": "The Sisters of St. Francis Xavier started their mission in the Diocese of Banmaw in 1984. At present, there are four Communities with (15) SFX Sisters working in different parishes and offices.",
-        "header_custom": "<link rel=\"canonical\" href=\"manmawsaradawginwang.com\">",
+        "header_custom": "<link rel=\"canonical\" href=\"https://manmawsaradawginwang.com\">",
         "footer_custom": "",
         "html_before": "",
         "order": 28
